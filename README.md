@@ -1,13 +1,19 @@
-"eojvegjgjpgjg"
--- me
+Hello, Welcome to my README....
 
 
 
+here's some stuff about me
+
+
+Name: Paramilk
+Pronouns: He/They/It
+Age: 17 (08/08/2007)
+Nationality: United Kingdom
+Favorite Album: The Bends by Radiohead
+Occcupation: Student/Musician/Director/Writer
+Computer: Late 2015 Apple iMac
+Programming Languages: Learning Ruby
 
 
 
-
-<!---
-Paramilky/Paramilky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+will update later -_-
