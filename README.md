@@ -1,10 +1,5 @@
-Hello, Welcome to my README....
-.
-.
-.
-here's some stuff about me
-.
-.
+Hello, Welcome to my README.... and uhhh.... here's some stuff about me
+
 Name: Paramilk
 
 Pronouns: He/They/It
